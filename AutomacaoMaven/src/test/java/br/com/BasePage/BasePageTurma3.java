@@ -77,7 +77,4 @@ public class BasePageTurma3 {
 				driver.findElement(By.xpath("//p[@class='info-account']")).getText());
 	}
 	
-	public void fecharBrowser() throws Exception{
-	driver.quit();
-	}
 }
