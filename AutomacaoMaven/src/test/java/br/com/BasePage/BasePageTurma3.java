@@ -10,6 +10,7 @@ import Codigos.DSL;
 
 public class BasePageTurma3 {
 ////
+	
 	public WebDriver driver;
 	public String baseUrl;
 	public boolean acceptNextAlert = true;
